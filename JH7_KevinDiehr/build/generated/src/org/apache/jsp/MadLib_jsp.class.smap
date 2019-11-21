@@ -1,0 +1,12 @@
+SMAP
+MadLib_jsp.java
+JSP
+*S JSP
+*F
++ 0 MadLib.jsp
+MadLib.jsp
+*L
+5,30:44
+35,2:74,3
+37,10:80
+*E
